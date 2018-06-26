@@ -2,9 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: 近场支付与物联网
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  DagO没有智能合约，专注于近场支付。DagO倡导Tapp，即TokenAPP。TokenAPP是使用DagO进行近场支付的应用。DagO天生支持物联网。你甚至可以把DagO安装在狗环上，狗狗们出去遛弯相聚时，也能产生挖矿效益。
