@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: 放下手机，解放双手
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+人类在进化中解放了双手，却在之后每天要拿着手机。DagO倡导人们放下手机，从线上回归线下。当人们聚集在一起时，激励就产生了。
